@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/blue_logo.ico</file>
+    <file>icon/blue_logo.png</file>
+    <file>icon/dashang.jpg</file>
+    <file>icon/jietufanyi.ico</file>
+    <file>icon/logo.png</file>
+    <file>icon/red_logo.png</file>
+    <file>icon/white_logo.png</file>
+    <file>icon/对号.png</file>
+    <file>icon/关于.png</file>
+    <file>icon/截.png</file>
+    <file>icon/截图按钮.png</file>
+    <file>icon/清除.png</file>
+    <file>icon/退出.png</file>
+    <file>icon/未选中.png</file>
+   
+  </qresource>
+</RCC>
