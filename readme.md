@@ -31,6 +31,6 @@ fy_Secret_key = "替换你注册获取到的秘钥"
 
 #### 程序界面
 
-![](C:\Users\Administrator\Desktop\QQ截图20190621005359.png)
+![](https://s2.ax1x.com/2019/06/21/Vx0SSJ.png)
 
-![](C:\Users\Administrator\Desktop\QQ截图20190621005447.png)
+![](https://s2.ax1x.com/2019/06/21/VxwMIU.png)
