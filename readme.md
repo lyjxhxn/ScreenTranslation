@@ -7,9 +7,9 @@
 
 ### 一、使用方法及运行环境
 
-##### 1、推荐python3.6以上版本编译器！
+#### 1、推荐python3.6以上版本编译器！
 
-##### 2、需要在cmd命令下安装以下依赖包！
+#### 2、需要在cmd命令下安装以下依赖包！
 
 ```python
 pip install requests #安装requests模块，用于翻译接口！
@@ -27,9 +27,9 @@ pip install PyQt5 #Gui界面模块
 pip install Pillow #用于剪贴板图片，保存本地磁盘
 ```
 
-##### 3、配置Secretkey.py秘钥文件
+#### 3、配置Secretkey.py秘钥文件
 
-##### 	**①获取文本识别秘钥注册网址** :http://ai.baidu.com/tech/ocr/general
+##### 		**①获取文本识别秘钥注册网址** :http://ai.baidu.com/tech/ocr/general
 
 ```python
 '''这里是百度图像识别秘钥，需要自己去注册获得秘钥'''
@@ -48,7 +48,7 @@ fy_APP_ID = "替换你注册获取到的秘钥"
 fy_Secret_key = "替换你注册获取到的秘钥"
 ```
 
-##### 4、运行jtfy4.0.py主程序！
+#### 4、运行jtfy4.0.py主程序！
 
 ### 二、发行版本
 
