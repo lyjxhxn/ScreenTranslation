@@ -29,7 +29,7 @@ pip install Pillow #用于剪贴板图片，保存本地磁盘
 
 #### 3、配置Secretkey.py秘钥文件
 
-##### 		**①获取文本识别秘钥注册网址** :http://ai.baidu.com/tech/ocr/general
+##### 			**①获取文本识别秘钥注册网址** :http://ai.baidu.com/tech/ocr/general
 
 ```python
 '''这里是百度图像识别秘钥，需要自己去注册获得秘钥'''
@@ -39,7 +39,7 @@ img_API_KEY = '替换你注册获取到的秘钥'
 img_ECRET_KEY = '替换你注册获取到的秘钥'
 ```
 
-​	**②获取百度翻译秘钥注册网址**:**http://api.fanyi.baidu.com/api/trans/product/index**
+##### 	**②获取百度翻译秘钥注册网址**:**http://api.fanyi.baidu.com/api/trans/product/index**
 
 ```python
 '''这里是百度翻译秘钥，需要自己去注册获得秘钥'''
