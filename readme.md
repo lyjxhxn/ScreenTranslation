@@ -63,3 +63,8 @@ fy_Secret_key = "替换你注册获取到的秘钥"
 
 ![https://s2.ax1x.com/2019/06/21/VxwMIU.png](https://s2.ax1x.com/2019/06/21/VxwMIU.png)
 
+### 四、特别鸣谢！
+
+**@花月风清**   截屏源码：http://blog.sina.com.cn/s/blog_71a803cb0102y66d.html 提供截屏源码支持！
+
+及**百度AI开放平台**和**百度翻译开放平台**！
